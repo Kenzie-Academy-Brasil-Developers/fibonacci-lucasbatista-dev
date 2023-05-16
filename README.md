@@ -1,4 +1,4 @@
-# Entrega: SnapCrackle #
+# Entrega: Fibonacci #
 
 ## Sobre o Projeto
 
